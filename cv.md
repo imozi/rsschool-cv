@@ -76,6 +76,9 @@ I study, take courses in [Lingoleo](https://lingualeo.com/ru), watch videos of E
 ## Contact me
 
 [**GitHub**](https://github.com/imozi)
+
 [**Telegram**](https://t.me/whitehare)
+
 [**Instagramm**](https://www.instagram.com/im.ozi)
+
 [**Facebook**](https://www.facebook.com/oleg.zaytsev.39794)
