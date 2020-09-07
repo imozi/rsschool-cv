@@ -1,7 +1,9 @@
 # Oleg Zaytsev
 
 **Located:** Petropavlovs-Kamchatsky, Russia
+
 **Tel:** +7-914-993-03-53
+
 **Email:** [zaytsevoi.90@gmail.com](mailto:zaytsevoi.90@gmail.com)
 
 ## Summary
@@ -11,11 +13,13 @@ I've been into front-end development since 2005. But in 2007 or 2008, I had to d
 ## Experience & education
 
 **Courses**
+
 * 2017: completed [HTMLAcademy: Basic HTML & CSS](https://htmlacademy.ru/profile/ozi)
 * 2019: completed [HTMLAcademy: Profession "Front-end developer"](https://htmlacademy.ru/profile/ozi)
 * 2020: Internship in Liga A [Liga A](https://liga-a.ru/)
 
 **Self-education:**
+
 * 2020: JS(ES6), NodeJS, ExpressJS, GraphQl, MongoDB, Webpack (youtube, article medium, telegram chanel, MDN, etc.) 
 
  **Code examples**
@@ -23,6 +27,7 @@ I've been into front-end development since 2005. But in 2007 or 2008, I had to d
  ***Examples during the courses***
 
 > **HTML&CSS:** 
+
  > * [Online store "Technomart" (fix)](https://imozi.github.io/447487-technomart-24/) / [code](https://github.com/imozi/447487-technomart-24)
  > * [Online store "Mishka" (adaptive: mobile, tablet, desktop)](https://imozi.github.io/447487-technomart-24/) / [code](https://github.com/imozi/mishka)
 
@@ -30,6 +35,7 @@ I've been into front-end development since 2005. But in 2007 or 2008, I had to d
  > * [Keksobuking (ES5)](https://imozi.github.io/447487-keksobooking-17/) / [code](https://github.com/imozi/447487-keksobooking-17)
 
 **Examples of self-education**
+
 >* [Test task for Liga A](https://imozi.github.io/smart_device/build/) / [code](https://github.com/imozi/smart_device)
 >* [Test task for studio "Web-alternative"](https://imozi.github.io/e-commerce_testing/build/) / [code](https://github.com/imozi/e-commerce_testing)
 >* [Apollo Server/ExpressJS/MongoDB (pet project in process now)](https://github.com/imozi/graphql_server)
@@ -37,20 +43,22 @@ I've been into front-end development since 2005. But in 2007 or 2008, I had to d
 ## SKILLS
 
 ***HARD SKILLS***
-* ◾◾◾◾◽HTML5 (BEM & a11ty)
-* ◾◾◾◾◽CSS3 (adaptive/crossbrowser) 
-* ◾◾◾◾◽SASS(SCSS)
-* ◾◾◾◽◽JS (ES5/ES6 junior+++ level 😁)
-* ◾◾◾◽◽Gulp
-* ◾◾◾◽◽Webpack 
-* ◾◾◽◽◽NodeJS
-* ◾◾◽◽◽ReactJS
-* ◾◾◽◽◽VueJS
-* ◾◾◾◾◽ GIT
-* ◾◾◾◾◽ Adobe Photoshop, Adobe Illustrator, Figma, Sketch
-* ◾◾◾◾◽Windows / Linux / Virtualization / Docker 
+
+* ◾◾◾◾◽  HTML5 (BEM & a11ty)
+* ◾◾◾◾◽  CSS3 (adaptive/crossbrowser) 
+* ◾◾◾◾◽  SASS(SCSS)
+* ◾◾◾◽◽  JS (ES5/ES6 junior+++ level 😁)
+* ◾◾◾◽◽  Gulp
+* ◾◾◾◽◽  Webpack 
+* ◾◾◽◽◽  NodeJS
+* ◾◾◽◽◽  ReactJS
+* ◾◾◽◽◽  VueJS
+* ◾◾◾◾◽  GIT
+* ◾◾◾◾◽  Adobe Photoshop, Adobe Illustrator, Figma, Sketch
+* ◾◾◾◾◽  Windows / Linux / Virtualization / Docker 
 
 ***SOFT SKILLS***
+
 * Communication
 * Teamwork
 * Problem-solving
@@ -60,3 +68,14 @@ I've been into front-end development since 2005. But in 2007 or 2008, I had to d
 * Creativity
 * Resourcefulness
 * Openness to criticism
+
+## English level is A2++
+
+I study, take courses in [Lingoleo](https://lingualeo.com/ru), watch videos of English-speaking developers on YouTube, read articles on the [Medium](https://medium.com). Of course, there is not enough knowledge and do not judge strictly. Rezime wrote with the help of google translator 😄, but I try to level up every day)
+
+## Contact me
+
+[**GitHub**](https://github.com/imozi)
+[**Telegram**](https://t.me/whitehare)
+[**Instagramm**](https://www.instagram.com/im.ozi)
+[**Facebook**](https://www.facebook.com/oleg.zaytsev.39794)
