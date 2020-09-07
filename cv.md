@@ -47,7 +47,7 @@ I've been into front-end development since 2005. But in 2007 or 2008, I had to d
 * ◾◾◾◾◽  HTML5 (BEM & a11ty)
 * ◾◾◾◾◽  CSS3 (adaptive/crossbrowser) 
 * ◾◾◾◾◽  SASS(SCSS)
-* ◾◾◾◽◽  JS (ES5/ES6 junior+++ level 😁 )
+* ◾◾◾◽◽  JS (ES5/ES6 junior+++ level 😁  )  
 * ◾◾◾◽◽  Gulp
 * ◾◾◾◽◽  Webpack 
 * ◾◾◽◽◽  NodeJS
@@ -71,7 +71,7 @@ I've been into front-end development since 2005. But in 2007 or 2008, I had to d
 
 ## English level is A2++
 
-I study, take courses in [Lingoleo](https://lingualeo.com/ru), watch videos of English-speaking developers on YouTube, read articles on the [Medium](https://medium.com). Of course, there is not enough knowledge and do not judge strictly. Rezime wrote with the help of google translator 😄 , but I try to level up every day)
+I study, take courses in [Lingoleo](https://lingualeo.com/ru), watch videos of English-speaking developers on YouTube, read articles on the [Medium](https://medium.com). Of course, there is not enough knowledge and do not judge strictly. Rezime wrote with the help of google translator 😄  , but I try to level up every day)
 
 ## Contact me
 
