@@ -2,7 +2,7 @@
 
 **Located:** [Petropavlovs-Kamchatsky, Russia](https://goo.gl/maps/cJAwaWJkWhdsMpwr8)
 
-**Tel:** [+7-914-993-03-53](tel:+79149930353)
+**Tel:** [+7-914-993-03-53](tel:89149930353)
 
 **Email:** [zaytsevoi.90@gmail.com](mailto:zaytsevoi.90@gmail.com)
 
@@ -13,7 +13,7 @@ Now I also continue to work as a system administrator, but I devote most of my f
 
 ## Experience & education
 
-**Courses**
+**Courses:**
 
 * December 2017: completed [HTMLAcademy: Basic HTML & CSS](https://htmlacademy.ru/profile/ozi)
 * August 2019: completed [HTMLAcademy: Profession "Front-end developer"](https://htmlacademy.ru/profile/ozi)
@@ -23,9 +23,9 @@ Now I also continue to work as a system administrator, but I devote most of my f
 
 * Nowdays: JS(ES6), NodeJS, ExpressJS, GraphQl, MongoDB, Webpack (youtube, article medium.com & habr.com, telegram chanel, MDN, technical documentation etc.) 
 
- **Code examples**
+ **Code examples:**
  
- ***Examples during the courses***
+ ***Examples during the courses:***
 
 > **HTML&CSS:** 
  > * [Online store "Technomart" (fix)](https://imozi.github.io/447487-technomart-24/) / [code](https://github.com/imozi/447487-technomart-24)
@@ -34,7 +34,7 @@ Now I also continue to work as a system administrator, but I devote most of my f
 > **JS**: 
  > * [Keksobuking (ES5)](https://imozi.github.io/447487-keksobooking-17/) / [code](https://github.com/imozi/447487-keksobooking-17)
 
-***Examples of self-education***
+***Examples of self-education:***
 
 >* [Test task for Liga A](https://imozi.github.io/smart_device/build/) / [code](https://github.com/imozi/smart_device)
 >* [Test task for studio "Web-alternative"](https://imozi.github.io/e-commerce_testing/build/) / [code](https://github.com/imozi/e-commerce_testing)
