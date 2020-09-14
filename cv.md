@@ -1,6 +1,6 @@
 # Oleg Zaytsev
 
-**Located:** [Petropavlovs-Kamchatsky, Russia](https://goo.gl/maps/cJAwaWJkWhdsMpwr8)
+**Located:** [Petropavlovsk-Kamchatsky, Russia](https://goo.gl/maps/cJAwaWJkWhdsMpwr8)
 
 **Tel:** [+7-914-993-03-53](tel:89149930353)
 
