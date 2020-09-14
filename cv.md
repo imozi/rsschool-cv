@@ -13,6 +13,8 @@ Now I also continue to work as a system administrator, but I devote most of my f
 
 ## Experience & education
 
+### Education
+
 **Courses:**
 
 * December 2017: completed [HTMLAcademy: Basic HTML & CSS](https://htmlacademy.ru/profile/ozi)
@@ -23,15 +25,15 @@ Now I also continue to work as a system administrator, but I devote most of my f
 
 * Nowdays: JS(ES6), NodeJS, ExpressJS, GraphQl, MongoDB, Webpack (youtube, article medium.com & habr.com, telegram chanel, MDN, technical documentation etc.) 
 
- **Code examples:**
+### Experience & examples code
  
  ***Examples during the courses:***
 
 > **HTML&CSS:** 
  > * [Online store "Technomart" (fix)](https://imozi.github.io/447487-technomart-24/) / [code](https://github.com/imozi/447487-technomart-24)
- > * [Online store "Mishka" (adaptive: mobile, tablet, desktop)](https://imozi.github.io/447487-technomart-24/) / [code](https://github.com/imozi/mishka)
+ > * [Online store "Mishka" (adaptive: mobile, tablet, desktop)](https://imozi.github.io/mishka/build/) / [code](https://github.com/imozi/mishka)
 
-> **JS**: 
+> **JavaScript:**: 
  > * [Keksobuking (ES5)](https://imozi.github.io/447487-keksobooking-17/) / [code](https://github.com/imozi/447487-keksobooking-17)
 
 ***Examples of self-education:***
