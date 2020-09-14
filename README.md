@@ -1,1 +1,1 @@
-https://imozi.github.io/rsschool-cv/cv
+https://imozi.github.io/rsschool-cv
