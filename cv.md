@@ -74,7 +74,7 @@ Now I also continue to work as a system administrator, but I devote most of my f
 
 ## English level
 
-**Level:** A2+++ 😁
+**Level:** A1++ 😁
 
 I study, take courses in Lingoleo, watch videos of English-speaking developers on YouTube, read articles on the Medium. Of course, there is not enough knowledge and do not judge strictly. Summary wrote with the help of google translator 😄  , but I try to level up every day)
 
